@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![mfw i'm completing the github introductory tutorials](https://pbs.twimg.com/media/D9_SzwFUIAE9C4r?format=png&name=900x900)
